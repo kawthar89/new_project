@@ -1,0 +1,15 @@
+.list{
+    background-image: url(https://static.vecteezy.com/ti/vecteur-libre/p1/5948510-arriere-plan-abstrait-pour-theme-ou-volume-de-livre-site-web-gratuit-vectoriel.jpg);
+    text-decoration: none;
+    list-style: none;
+    font-size:38px;
+}
+.list{
+color: blue ;
+
+}
+.list a {
+    text-decoration: none;
+    list-style: none;
+     ;
+}
